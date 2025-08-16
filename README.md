@@ -13,7 +13,7 @@
 
 
 ## 분석 방법
-* R-studio : 선형회귀분석, 의사결정나무(회귀)
+* R-studio : Linear Regression Model, Decision Tree(Regression)
 * Y: 상품군별 판매량 (상품군: 베이커리, 음료, 수산/건어물, 과일, 김치류, 가공/건강식품, 정육/계란, 쌀/잡곡, 장/양념/소스류, 채소
 * X: 평균 기온, 강수량, 적설량, PM10 농도
 * 단위: 월별
